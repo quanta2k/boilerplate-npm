@@ -4,6 +4,8 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "Mohak Singh",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
